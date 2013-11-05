@@ -19,3 +19,13 @@ What’s include ?
 - pandas
 
 
+How to use ?
+============
+
+1. First go to `XQuartz`_ and install it, then logout and login .
+2. Follow the install guild by hand or use sh (not test it yet)
+
+
+.. _`XQuartz`: http://xquartz.macosforge.org/landing/
+
+

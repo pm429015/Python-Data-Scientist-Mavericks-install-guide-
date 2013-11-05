@@ -21,9 +21,7 @@ brew install python
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 
-#Matplotlib and dependency install 
-# Go http://xquartz.macosforge.org/landing/ to install XQuartz and logout and login again
-
+#Matplotlib and dependency install
 # Copy and paste these command to your terminal
 
 sudo mkdir -p /usr/local/include
