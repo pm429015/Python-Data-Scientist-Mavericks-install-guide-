@@ -33,7 +33,7 @@ How to use ?
 Reference
 ============
 
-Thank you for `rueckstiess`_ , ` goldsmith`_ and others’ help
+Thank you for `rueckstiess`_  `goldsmith`_ and others’ help
 
 .. _`rueckstiess `: https://gist.github.com/goldsmith/7163055
 .. _`goldsmith `: https://github.com/rueckstiess/mtools/wiki/matplotlib-Installation-Guide
