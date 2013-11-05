@@ -40,4 +40,6 @@ sudo pip install matplotlib
 # install numpy scipy and scikit-learn
 sudo pip install numpy scipy scikit-learn
 
+# Done. YAYA! I hope these works for you.
+
 
