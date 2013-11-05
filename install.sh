@@ -21,11 +21,7 @@ brew install python
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 
-<<<<<<< HEAD:install.sh
 #Matplotlib and dependency install
-=======
-#Matplotlib and dependency install 
->>>>>>> aef353897231eed0feb973fcecfa0b021111dd16:install
 # Copy and paste these command to your terminal
 
 sudo mkdir -p /usr/local/include
